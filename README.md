@@ -1,4 +1,4 @@
-# Trust-Science Depoloyment
+# Trust-Science Deployment
 
 Technologies used: 
  - React

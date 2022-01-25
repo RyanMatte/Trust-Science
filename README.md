@@ -7,4 +7,4 @@ Technologies used:
 
 To Start clone the repository in a local folder and rum npm install to install all the required node modules 
 Running npm start will start the server
-Navigating to localhost:3000 to view the project
+Navigate to localhost:3000 to view the project
